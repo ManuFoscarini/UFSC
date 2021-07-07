@@ -1,0 +1,28 @@
+|adderNbits
+in0[0] => Add0.IN8
+in0[1] => Add0.IN7
+in0[2] => Add0.IN6
+in0[3] => Add0.IN5
+in0[4] => Add0.IN4
+in0[5] => Add0.IN3
+in0[6] => Add0.IN2
+in0[7] => Add0.IN1
+in1[0] => Add0.IN16
+in1[1] => Add0.IN15
+in1[2] => Add0.IN14
+in1[3] => Add0.IN13
+in1[4] => Add0.IN12
+in1[5] => Add0.IN11
+in1[6] => Add0.IN10
+in1[7] => Add0.IN9
+out0[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[4] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[5] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[6] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+out0[7] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+ovf <= ovf.DB_MAX_OUTPUT_PORT_TYPE
+
+
